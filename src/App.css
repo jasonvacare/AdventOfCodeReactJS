@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Raw {
+  font-family: monospace;
+  white-space: pre;
+}
+
+.CanMove {
+  color:green;
+  font-weight: bolder;
+}
+
+.CannotMove {
+  color:red;
+  font-weight: bolder;
+}
